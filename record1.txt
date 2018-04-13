@@ -1,0 +1,10 @@
+hemanth	 dspd	 12  15000   12	 hyderabad  9502053280
+phaneesh dmgt	 10  30000   36	 warangal   9632587410
+kumar 	 dcm     14  18000   52  nagpur     9874563210
+ravi     napt    10  10000   11  hyderabad  9745863210
+ravindra iwp     11  14000   16  warangal   9875641230
+hemanth  iwp     14  30000   12  hyderabad  9502053280
+phaneesh dspd    11  25000   36  warangal   9632587410
+kumar    dmgt    14  20000   52  nagpur     9874563210
+ravi     dcm     10  12000   11  hyderabad  9745863210
+ravindra dspd    16  30000   16  warangal   9875641230

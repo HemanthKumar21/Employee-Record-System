@@ -1,0 +1,10 @@
+vinay	 mining	 12 15000 14 shadnagar  9874563210
+mani 	 mining  10 15000 15 karimnagar 8745693210
+hemanth  dspd 	 14 19000 12 hyderabad  9502053280
+kumar 	 dcm 	 15 16000 36 warangal   9561481094
+anudeep  cse 	 12 17000 25 hyderabad  7458963210
+vinay 	 cse 	 10 18000 14 shadnagar  9874563210
+mani 	 dspd 	 5  14000 15 karimnagar 8745693210
+hemanth  iwp   	 14 15000 12 hyderabad  9502053280
+anudeep  dspd 	 12 17000 25 hyderabad  7458963210
+phaneesh dspd 	 16 19000 52 warangal   9658741230
